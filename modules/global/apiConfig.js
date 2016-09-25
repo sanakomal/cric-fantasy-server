@@ -1,0 +1,1 @@
+exports.api = 'https://query.yahooapis.com/v1/public/yql';
